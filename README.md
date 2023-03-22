@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aurélio</h1>
+<h3 align="center">A front-end dev from Brazil</h3>
 
-<!--
-**aureliomiguel/aureliomiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Learning
+- Front-end development with Tailwind and react
+- Dart and Flutter
 
-Here are some ideas to get you started:
+## 💻 Current project
+- [bank-landing-page](https://github.com/aureliomiguel/bank_landing_page)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My skills 📜
+
+- JavaScript
+- HTML, CSS
+- Linux(Arch and Debian based distros)
+- Bash
+- Git
