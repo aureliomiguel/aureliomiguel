@@ -2,7 +2,7 @@
 <h3 align="center">A front-end dev from Brazil</h3>
 
 ## 📚 Learning
-- Front-end development with Tailwind and react
+- Front-end development with Tailwind and React
 - Dart and Flutter
 
 ## 💻 Current project
