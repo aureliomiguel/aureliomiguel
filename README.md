@@ -15,3 +15,7 @@
 - Linux(Arch and Debian based distros)
 - Bash
 - Git
+
+##
+
+![Visitor Count](https://profile-counter.glitch.me/{aureliomiguel}/count.svg)
