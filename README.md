@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I'm Aurélio Miguel</h1>
 
 <h3 align="center">A lawyer and a computer science student</h3>
+<br>
 
 
 - 🔭 I’m currently working on [Bank Landing Page](https://github.com/aureliomiguel/bank_landing_page)
